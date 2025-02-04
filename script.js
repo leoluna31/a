@@ -2,8 +2,8 @@ const messages = [
     "Estas segura?",
     "Muy segura??",
     "de verdad estas segura?",
-    "Pookie please...",
-    "Just think about it!",
+    "Mely por favor...",
+    "peinsalo por favor...",
     "Si dices que no, estare muy triste...",
     "Voy a estar muy triste...",
     "Voy a estar muy muy triste...",
@@ -23,5 +23,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "yes_page.html";
+    window.location.href = "pag_si.html";
 }
